@@ -17,17 +17,14 @@ avatar: https://github.com/phette.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:
-  facebook: natephette
-  github: phette
-  instagram: nathan.phetteplace
   linkedin: nathanphetteplace
-  pinterest:
-  rss: rss
-  twitter:
+  github: phette
   stackoverflow: users/884401/nathan-phetteplace
-  youtube: # channel/<your_long_string> or user/<user-name>
-
+  instagram: nathan.phetteplace
+  facebook: natephette
+  twitter:
+  email:
+  rss: rss
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
