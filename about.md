@@ -6,8 +6,9 @@ permalink: /about/
 
 My name is Nathan Phetteplace, and I am a software engineer living in Fort Worth, Texas. I have
 a B.S. in Electrical Engineering from Texas A&M University (gigem) and am currently employed by
-[rewardStyle](https://www.rewardstyle.com/) as the Engineering Manager of the team responsible
-for the [LIKEtoKNOW.it](https://www.liketoknow.it/) back end services and website.
+[rewardStyle](https://www.rewardstyle.com/){:target="_blank"} as the Engineering Manager of the
+team responsible for the [LIKEtoKNOW.it](https://www.liketoknow.it/){:target="_blank"} back end
+services and website.
 
 # About this Site
 
